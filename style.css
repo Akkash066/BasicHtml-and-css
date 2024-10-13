@@ -77,7 +77,7 @@ input{
     color: #1a2350;
 }
 button{
-    background-image: linear-gradient(to bottom right, #ff9ec4,#ffc37e);
+    background-image: linear-gradient(to bottom right, #ff9ec4,#cda272);
     display: block;
     color: #fff;
     font-size: large;
