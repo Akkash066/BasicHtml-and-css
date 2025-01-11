@@ -37,6 +37,10 @@ ul, li{
     transform: scaleY(1.2);
     opacity: 1;
 }
+
 .list-item::after{
     
 }
+
+
+
