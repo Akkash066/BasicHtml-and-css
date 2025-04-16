@@ -78,10 +78,8 @@ top: -5px;
     display: flex;
     justify-content: space-between;  
 }
-
 .forget label input{
     margin-right: 3px;
-    
 }
 .forget label a{
     color: #fff;
